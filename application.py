@@ -12,12 +12,12 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-##import os
-##import sys
-##import json
+import os
+import sys
+import json
 
-##import flask
-##from flask import request, Response
+import flask
+from flask import request, Response
 
 #from boto import dynamodb2
 #from boto.dynamodb2.table import Table
